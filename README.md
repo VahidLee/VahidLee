@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+My name is Jianwen Li，studying in Guangdong University of Technology.
+I like reading and playing game.Thank you read my blog.
 
 <!--
 **VahidLee/VahidLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
